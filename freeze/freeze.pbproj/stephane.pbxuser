@@ -1,0 +1,49 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 = {
+		activeBuildStyle = 014CEA500018CE4811CA2923;
+		activeExecutable = F4E8804605C4321F00632186;
+		activeTarget = 08FB779FFE84155DC02AAC07;
+		addToTargets = (
+			08FB779FFE84155DC02AAC07,
+		);
+		breakpoints = (
+		);
+		executables = (
+			F4E8804605C4321F00632186,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 155927206;
+		};
+		projectwideBuildSettings = {
+		};
+		wantsIndex = 1;
+		wantsSCM = -1;
+	};
+	08FB779FFE84155DC02AAC07 = {
+		activeExec = 0;
+		executables = (
+			F4E8804605C4321F00632186,
+		);
+	};
+	F4E8804605C4321F00632186 = {
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		configStateDict = {
+		};
+		debuggerPlugin = GDBDebugging;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		isa = PBXExecutable;
+		name = freeze;
+		shlibInfoDictList = (
+		);
+		sourceDirectories = (
+		);
+	};
+}

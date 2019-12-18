@@ -1,0 +1,49 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 = {
+		activeBuildStyle = 014CEA500018CE4811CA2923;
+		activeExecutable = F45EA0DF058B9492008B71B2;
+		activeTarget = 08FB779FFE84155DC02AAC07;
+		addToTargets = (
+			08FB779FFE84155DC02AAC07,
+		);
+		breakpoints = (
+		);
+		executables = (
+			F45EA0DF058B9492008B71B2,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 130839011;
+		};
+		projectwideBuildSettings = {
+		};
+		wantsIndex = 1;
+		wantsSCM = -1;
+	};
+	08FB779FFE84155DC02AAC07 = {
+		activeExec = 0;
+		executables = (
+			F45EA0DF058B9492008B71B2,
+		);
+	};
+	F45EA0DF058B9492008B71B2 = {
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		configStateDict = {
+		};
+		debuggerPlugin = GDBDebugging;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		isa = PBXExecutable;
+		name = IcebergControlTower;
+		shlibInfoDictList = (
+		);
+		sourceDirectories = (
+		);
+	};
+}

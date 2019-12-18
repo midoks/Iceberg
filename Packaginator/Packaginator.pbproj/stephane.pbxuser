@@ -1,0 +1,235 @@
+// !$*UTF8*$!
+{
+	2A37F4A9FDCFA73011CA2CEA = {
+		activeBuildStyle = 4A9504D1FFE6A4CB11CA0CBA;
+		activeExecutable = F4B4D682054B45BB003A01A1;
+		activeTarget = 2A37F4C6FDCFA73011CA2CEA;
+		addToTargets = (
+			2A37F4C6FDCFA73011CA2CEA,
+		);
+		breakpoints = (
+			F4CD1E980808750000AFA6EE,
+			F4CD1E9A0808750300AFA6EE,
+			F4A9DABD0809284F0086963C,
+			F4A9DAC108092CE70086963C,
+			F4A9DAC908094AFA0086963C,
+			F4A9DACB08094AFB0086963C,
+			F4A9DACD08094AFD0086963C,
+			F4A9DACF08094B040086963C,
+			F4A9DAD108094B070086963C,
+			F4A9DAD308094B080086963C,
+			F4A9DAD508094B0A0086963C,
+			F4A9DAD708094BBA0086963C,
+			F46D0AF8080D060E00635D70,
+			F4F86B8F080E9012001BB52B,
+			F4F86B97080E94BA001BB52B,
+			F4F86BA0080EA07E001BB52B,
+			F4F86BA2080EA08C001BB52B,
+			F4BC01CB08B7361000109693,
+			F4BC01CD08B736EC00109693,
+			F47E635E08B920B300BACF06,
+			F4B762FF09175DA8002F853D,
+			F4022E620938AB2600D8330B,
+			F4022E640938AB3E00D8330B,
+			F4022E660938AC0600D8330B,
+		);
+		executables = (
+			F4B4D682054B45BB003A01A1,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 170374941;
+		};
+		projectwideBuildSettings = {
+		};
+		userBookmarkGroup = F4BB2AF305E7D3090084B64C;
+		wantsIndex = 1;
+		wantsSCM = -1;
+	};
+	2A37F4C6FDCFA73011CA2CEA = {
+		activeExec = 0;
+		executables = (
+			F4B4D682054B45BB003A01A1,
+		);
+	};
+	F4022E620938AB2600D8330B = {
+		fileReference = F4DA68D907C895F900C9EB28;
+		isa = PBXFileBreakpoint;
+		lineNumber = 1075;
+		state = 1;
+	};
+	F4022E640938AB3E00D8330B = {
+		fileReference = F4DA68D907C895F900C9EB28;
+		isa = PBXFileBreakpoint;
+		lineNumber = 998;
+		state = 1;
+	};
+	F4022E660938AC0600D8330B = {
+		fileReference = F4DA68D907C895F900C9EB28;
+		isa = PBXFileBreakpoint;
+		lineNumber = 449;
+		state = 1;
+	};
+	F46D0AF8080D060E00635D70 = {
+		fileReference = 2A37F4ACFDCFA73011CA2CEA;
+		isa = PBXFileBreakpoint;
+		lineNumber = 1968;
+		state = 2;
+	};
+	F47E635E08B920B300BACF06 = {
+		fileReference = F457E9CF08B7A91300745E5A;
+		isa = PBXFileBreakpoint;
+		lineNumber = 27;
+		state = 1;
+	};
+	F4A9DABD0809284F0086963C = {
+		fileReference = F46E4BDE07F756970084A68E;
+		isa = PBXFileBreakpoint;
+		lineNumber = 27;
+		state = 2;
+	};
+	F4A9DAC108092CE70086963C = {
+		fileReference = F46E4BDE07F756970084A68E;
+		isa = PBXFileBreakpoint;
+		lineNumber = 10;
+		state = 2;
+	};
+	F4A9DAC908094AFA0086963C = {
+		fileReference = F4D610DF07F6C085006F69B2;
+		isa = PBXFileBreakpoint;
+		lineNumber = 161;
+		state = 2;
+	};
+	F4A9DACB08094AFB0086963C = {
+		fileReference = F4D610DF07F6C085006F69B2;
+		isa = PBXFileBreakpoint;
+		lineNumber = 166;
+		state = 2;
+	};
+	F4A9DACD08094AFD0086963C = {
+		fileReference = F4D610DF07F6C085006F69B2;
+		isa = PBXFileBreakpoint;
+		lineNumber = 171;
+		state = 2;
+	};
+	F4A9DACF08094B040086963C = {
+		fileReference = F4D610DF07F6C085006F69B2;
+		isa = PBXFileBreakpoint;
+		lineNumber = 195;
+		state = 2;
+	};
+	F4A9DAD108094B070086963C = {
+		fileReference = F4D610DF07F6C085006F69B2;
+		isa = PBXFileBreakpoint;
+		lineNumber = 207;
+		state = 2;
+	};
+	F4A9DAD308094B080086963C = {
+		fileReference = F4D610DF07F6C085006F69B2;
+		isa = PBXFileBreakpoint;
+		lineNumber = 202;
+		state = 2;
+	};
+	F4A9DAD508094B0A0086963C = {
+		fileReference = F4D610DF07F6C085006F69B2;
+		isa = PBXFileBreakpoint;
+		lineNumber = 212;
+		state = 2;
+	};
+	F4A9DAD708094BBA0086963C = {
+		fileReference = F46E4BDE07F756970084A68E;
+		isa = PBXFileBreakpoint;
+		lineNumber = 80;
+		state = 2;
+	};
+	F4B4D682054B45BB003A01A1 = {
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		configStateDict = {
+		};
+		debuggerPlugin = GDBDebugging;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		isa = PBXExecutable;
+		name = Packaginator;
+		shlibInfoDictList = (
+		);
+		sourceDirectories = (
+		);
+	};
+	F4B762FF09175DA8002F853D = {
+		fileReference = 2A37F4ACFDCFA73011CA2CEA;
+		isa = PBXFileBreakpoint;
+		lineNumber = 2327;
+		state = 1;
+	};
+	F4BB2AF305E7D3090084B64C = {
+		children = (
+			F4BB2B0905E7DC0E0084B64C,
+		);
+		isa = PBXBookmarkGroup;
+		name = Root;
+	};
+	F4BB2B0905E7DC0E0084B64C = {
+		fRef = F45C78B305D522F1002BF103;
+		isa = PBXTextBookmark;
+		name = "PBProjectTreeImporter.h: 3";
+		rLen = 21;
+		rLoc = 1530;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 0;
+	};
+	F4BC01CB08B7361000109693 = {
+		fileReference = F4D543EC08B0CD1500104798;
+		isa = PBXFileBreakpoint;
+		lineNumber = 232;
+		state = 1;
+	};
+	F4BC01CD08B736EC00109693 = {
+		fileReference = F4D543EC08B0CD1500104798;
+		isa = PBXFileBreakpoint;
+		lineNumber = 248;
+		state = 1;
+	};
+	F4CD1E980808750000AFA6EE = {
+		fileReference = F46E4BDE07F756970084A68E;
+		isa = PBXFileBreakpoint;
+		lineNumber = 133;
+		state = 2;
+	};
+	F4CD1E9A0808750300AFA6EE = {
+		fileReference = F46E4BDE07F756970084A68E;
+		isa = PBXFileBreakpoint;
+		lineNumber = 154;
+		state = 2;
+	};
+	F4F86B8F080E9012001BB52B = {
+		fileReference = F4A9DF120809562F0086963C;
+		isa = PBXFileBreakpoint;
+		lineNumber = 219;
+		state = 1;
+	};
+	F4F86B97080E94BA001BB52B = {
+		fileReference = F4A9DF120809562F0086963C;
+		isa = PBXFileBreakpoint;
+		lineNumber = 144;
+		state = 1;
+	};
+	F4F86BA0080EA07E001BB52B = {
+		fileReference = F4A9DF120809562F0086963C;
+		isa = PBXFileBreakpoint;
+		lineNumber = 268;
+		state = 1;
+	};
+	F4F86BA2080EA08C001BB52B = {
+		fileReference = F4A9DF120809562F0086963C;
+		isa = PBXFileBreakpoint;
+		lineNumber = 137;
+		state = 1;
+	};
+}

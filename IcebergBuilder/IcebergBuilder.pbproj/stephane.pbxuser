@@ -1,0 +1,56 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 = {
+		activeBuildStyle = 014CEA500018CE4811CA2923;
+		activeExecutable = F45EA126058BA79E008B71B2;
+		activeTarget = 08FB779FFE84155DC02AAC07;
+		addToTargets = (
+			08FB779FFE84155DC02AAC07,
+		);
+		breakpoints = (
+			F4F576A205CB292B00D366B6,
+		);
+		executables = (
+			F45EA126058BA79E008B71B2,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 170156818;
+		};
+		projectwideBuildSettings = {
+		};
+		wantsIndex = 1;
+		wantsSCM = -1;
+	};
+	08FB779FFE84155DC02AAC07 = {
+		activeExec = 0;
+		executables = (
+			F45EA126058BA79E008B71B2,
+		);
+	};
+	F45EA126058BA79E008B71B2 = {
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		configStateDict = {
+		};
+		debuggerPlugin = GDBDebugging;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		isa = PBXExecutable;
+		name = IcebergBuilder;
+		shlibInfoDictList = (
+		);
+		sourceDirectories = (
+		);
+	};
+	F4F576A205CB292B00D366B6 = {
+		fileReference = F4F5769005CB232C00D366B6;
+		isa = PBXFileBreakpoint;
+		lineNumber = 36;
+		state = 1;
+	};
+}
